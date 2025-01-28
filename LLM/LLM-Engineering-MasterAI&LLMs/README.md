@@ -71,6 +71,7 @@ openai = OpenAI()
 
 
 
+
 def message_gpt():
     messages = [
         {"role": "system", "content": CFG.system_message},
