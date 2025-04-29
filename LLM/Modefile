@@ -1,0 +1,20 @@
+# 指定你要基於哪一個模型來建立新的模型
+FROM llama3.2:latest
+
+##### 參數(PARAMETER) #####
+PARAMETER temperature 0.3 # 創意程度
+PARAMETER top_p 0.9
+# 最大生成長度
+PARAMETER num_predict 1024
+# 防止重複出現相同詞。建議值：1.1 ~ 1.3
+PARAMETER repeat_penalty 1.2
+
+##### SYSTEM：設定 AI 助理的角色/語氣 ##### 
+SYSTEM """
+你是一位專業的老師，擅長用淺顯例子解釋複雜概念。
+"""
+
+##### LICENSE / MESSAGE / MODIFIER（可選補充）##### 
+# 顯示在 ollama list 中的資訊提示
+LICENSE MIT
+MESSAGE "本模型用途為教育研究，請勿濫用"
