@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAN/README.md",
+                "file": "2024計算機概論/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "List"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5024719238281
+    "width": 224.50418853759766
   },
   "right": {
     "id": "8d7f124c8bc7eb67",
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAN/README.md",
+                "file": "2024計算機概論/List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大綱"
+              "title": "List 的大綱"
             }
           }
         ],
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +182,12 @@
   },
   "active": "33d27a07c0aa588f",
   "lastOpenFiles": [
+    "2024計算機概論/Tuple.md",
+    "2024計算機概論/迴圈.md",
+    "2024計算機概論/List.md",
+    "2024計算機概論/list.md",
+    "2024計算機概論/函數.md",
+    "GAN/README.md",
     "GAN/DCGAN_cat_pytorch.ipynb",
     "GAN/outputs_ghibli/fake_images_epoch_100.png",
     "GAN/outputs_ghibli/fake_images_epoch_95.png",
@@ -201,9 +208,7 @@
     "GAN/data/MNIST/raw/train-labels-idx1-ubyte",
     "GAN/data/MNIST/raw/train-labels-idx1-ubyte.gz",
     "GAN/data/MNIST/raw/train-images-idx3-ubyte",
-    "GAN/data/MNIST/raw/train-images-idx3-ubyte.gz",
     "LLM/README.md",
-    "GAN/README.md",
     "LLM/LangChain.md",
     "LLM/LLM.md",
     "LLM/Prompt Engineering（提示工程）.md",
@@ -222,10 +227,6 @@
     "week04/README.md",
     "week01/安裝thonny.md",
     "README.md",
-    "8051/8051.md",
-    "作業系統/作業系統.md",
-    "計算機結構組織/計算機結構v2.md",
-    "2025就業博覽會.md",
-    "計算機結構組織/計算機結構v1.md"
+    "8051/8051.md"
   ]
 }
