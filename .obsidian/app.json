@@ -9,5 +9,7 @@
     "downscalePercent": 100
   },
   "showLineNumber": true,
-  "tabSize": 4
+  "tabSize": 4,
+  "promptDelete": false,
+  "defaultViewMode": "source"
 }

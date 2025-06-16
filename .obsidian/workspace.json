@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb48dd87577483ea",
+        "id": "6e352550a7f1e591",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7f4957181ff31e",
+            "id": "be17f57a447b6847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/README.md",
+                "file": "全面掌握Gemini 開發實務/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "33d27a07c0aa588f",
+            "id": "b6070e13e47b04c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAN/README.md",
+                "file": "生成式AI/Lab04/生成式人工智慧Lab04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "生成式人工智慧Lab04"
+            }
+          },
+          {
+            "id": "a87988a5dce3ac68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生成式AI/Lab02/生成式人工智慧Lab02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生成式人工智慧Lab02"
             }
           }
         ],
@@ -153,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAN/README.md",
+                "file": "生成式AI/Lab04/生成式人工智慧Lab04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大綱"
+              "title": "生成式人工智慧Lab04 的大綱"
             }
           }
         ],
@@ -179,29 +193,39 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "33d27a07c0aa588f",
+  "active": "b6070e13e47b04c5",
   "lastOpenFiles": [
-    "GAN/DCGAN_cat_pytorch.ipynb",
-    "GAN/outputs_ghibli/fake_images_epoch_100.png",
-    "GAN/outputs_ghibli/fake_images_epoch_95.png",
-    "GAN/outputs_ghibli/fake_images_epoch_90.png",
-    "GAN/outputs_ghibli/fake_images_epoch_85.png",
-    "GAN/outputs_ghibli/fake_images_epoch_80.png",
-    "GAN/outputs_ghibli/fake_images_epoch_75.png",
-    "GAN/outputs_ghibli/fake_images_epoch_70.png",
-    "GAN/outputs_ghibli/fake_images_epoch_65.png",
-    "GAN/outputs_ghibli/fake_images_epoch_60.png",
-    "GAN/outputs_ghibli/fake_images_epoch_55.png",
-    "GAN/outputs_ghibli",
-    "GAN/DCGAN_comic_dcgan_pytorch.ipynb",
-    "GAN/data/MNIST/raw/t10k-labels-idx1-ubyte",
-    "GAN/data/MNIST/raw/t10k-labels-idx1-ubyte.gz",
-    "GAN/data/MNIST/raw/t10k-images-idx3-ubyte",
-    "GAN/data/MNIST/raw/t10k-images-idx3-ubyte.gz",
-    "GAN/data/MNIST/raw/train-labels-idx1-ubyte",
-    "GAN/data/MNIST/raw/train-labels-idx1-ubyte.gz",
-    "GAN/data/MNIST/raw/train-images-idx3-ubyte",
-    "GAN/data/MNIST/raw/train-images-idx3-ubyte.gz",
+    "生成式AI/Lab04/生成式人工智慧Lab04.pdf",
+    "生成式AI/Lab02/生成式人工智慧Lab02.md",
+    "生成式AI/Lab04/生成式人工智慧Lab04.md",
+    "生成式AI/Lab04/attachments/image.png",
+    "生成式AI/Lab04/attachments",
+    "生成式AI/Lab03/生成式人工智慧Lab03.md",
+    "生成式AI/Lab03/生成式人工智慧Lab03.pdf",
+    "生成式AI/Lab03/attachments/image-2.png",
+    "生成式AI/Lab03/attachments/image-1.png",
+    "生成式AI/Lab03/attachments/image.png",
+    "生成式AI/Lab03/attachments",
+    "生成式AI/生成式人工智慧第11組.pdf",
+    "生成式AI/Pixel art character generation as an image-to-imagetranslation problem using GANs.pdf",
+    "GAN/期末paper-Pixel art character generation as an image-to-image translation problem using GANs.md",
+    "生成式AI/Lab03",
+    "GAN/attachments/image-2.png",
+    "GAN/attachments/image-1.png",
+    "GAN/attachments/image.png",
+    "GAN/attachments",
+    "全面掌握Gemini 開發實務/README.md",
+    "全面掌握Gemini 開發實務/Gemini_API_基礎開發.md",
+    "全面掌握Gemini 開發實務/test.ipynb",
+    "全面掌握Gemini 開發實務/test.py",
+    "【語音處理&python】.md",
+    "全面掌握Gemini 開發實務",
+    "資料視覺化/程式實例/ch14/springfield.jpg",
+    "資料視覺化/程式實例/ch14/snow.jpg",
+    "資料視覺化/程式實例/ch6/macau.jpg",
+    "資料視覺化/ndarray.md",
+    "資料視覺化/README.md",
+    "生成式AI/Lab01/生成式人工智慧 Lab01.md",
     "LLM/README.md",
     "GAN/README.md",
     "LLM/LangChain.md",
@@ -212,20 +236,10 @@
     "LLM/Generative AI（生成式人工智慧）.md",
     "LLM/ollama.md",
     "LLM/機器學習&深度學習簡介.md",
-    "生成式AI/Lab01/生成式人工智慧 Lab01.md",
     "week03/README.md",
     "week02/南工基礎Python教學--week02.md",
     "week01/南工基礎Python教學--week01--解答版.md",
     "week01/南工基礎Python教學--week01--教學版.md",
-    "week01/基本.md",
-    "week05/README.md",
-    "week04/README.md",
-    "week01/安裝thonny.md",
-    "README.md",
-    "8051/8051.md",
-    "作業系統/作業系統.md",
-    "計算機結構組織/計算機結構v2.md",
-    "2025就業博覽會.md",
-    "計算機結構組織/計算機結構v1.md"
+    "week01/基本.md"
   ]
 }
