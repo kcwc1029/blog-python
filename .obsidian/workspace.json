@@ -1,245 +1,217 @@
 {
-	"main": {
-		"id": "13e0481b955a24ae",
-		"type": "split",
-		"children": [
-			{
-				"id": "6e352550a7f1e591",
-				"type": "tabs",
-				"children": [
-					{
-						"id": "be17f57a447b6847",
-						"type": "leaf",
-						"state": {
-							"type": "markdown",
-							"state": {
-								"file": "全面掌握Gemini 開發實務/README.md",
-								"mode": "source",
-								"source": false
-							},
-							"icon": "lucide-file",
-							"title": "README"
-						}
-					},
-					{
-						"id": "b6070e13e47b04c5",
-						"type": "leaf",
-						"state": {
-							"type": "markdown",
-							"state": {
-								"file": "2024計算機概論/List.md",
-								"mode": "source",
-								"source": false
-							},
-							"icon": "lucide-file",
-							"title": "生成式人工智慧Lab04"
-						}
-					},
-					{
-						"id": "a87988a5dce3ac68",
-						"type": "leaf",
-						"state": {
-							"type": "markdown",
-							"state": {
-								"file": "生成式AI/Lab02/生成式人工智慧Lab02.md",
-								"mode": "source",
-								"source": false
-							},
-							"icon": "lucide-file",
-							"title": "生成式人工智慧Lab02"
-						}
-					}
-				],
-				"currentTab": 1
-			}
-		],
-		"direction": "vertical"
-	},
-	"left": {
-		"id": "838ba4b90c4ef34b",
-		"type": "split",
-		"children": [
-			{
-				"id": "bcc9111f50cc7137",
-				"type": "tabs",
-				"children": [
-					{
-						"id": "91d2374114e34d8f",
-						"type": "leaf",
-						"state": {
-							"type": "file-explorer",
-							"state": {
-								"sortOrder": "alphabetical",
-								"autoReveal": false
-							},
-							"icon": "lucide-folder-closed",
-							"title": "檔案瀏覽器"
-						}
-					},
-					{
-						"id": "1f19379a115a8167",
-						"type": "leaf",
-						"state": {
-							"type": "search",
-							"state": {
-								"query": "tag:#define",
-								"matchingCase": false,
-								"explainSearch": false,
-								"collapseAll": false,
-								"extraContext": false,
-								"sortOrder": "alphabetical"
-							},
-							"icon": "lucide-search",
-							"title": "搜尋"
-						}
-					},
-					{
-						"id": "775fb5577665710c",
-						"type": "leaf",
-						"state": {
-							"type": "bookmarks",
-							"state": {},
-							"icon": "lucide-bookmark",
-							"title": "書籤"
-						}
-					}
-				]
-			}
-		],
-		"direction": "horizontal",
-		"width": 224.50418853759766
-	},
-	"right": {
-		"id": "8d7f124c8bc7eb67",
-		"type": "split",
-		"children": [
-			{
-				"id": "2275bd9eae94694b",
-				"type": "tabs",
-				"children": [
-					{
-						"id": "635ffa88bb968656",
-						"type": "leaf",
-						"state": {
-							"type": "backlink",
-							"state": {
-								"collapseAll": false,
-								"extraContext": false,
-								"sortOrder": "alphabetical",
-								"showSearch": false,
-								"searchQuery": "",
-								"backlinkCollapsed": false,
-								"unlinkedCollapsed": true
-							},
-							"icon": "links-coming-in",
-							"title": "反向連結"
-						}
-					},
-					{
-						"id": "e630b32c676ffd8d",
-						"type": "leaf",
-						"state": {
-							"type": "outgoing-link",
-							"state": {
-								"linksCollapsed": false,
-								"unlinkedCollapsed": true
-							},
-							"icon": "links-going-out",
-							"title": "對外連結"
-						}
-					},
-					{
-						"id": "ac70b7fc10e480b2",
-						"type": "leaf",
-						"state": {
-							"type": "tag",
-							"state": {
-								"sortOrder": "frequency",
-								"useHierarchy": true
-							},
-							"icon": "lucide-tags",
-							"title": "標籤"
-						}
-					},
-					{
-						"id": "853cefececf4cc93",
-						"type": "leaf",
-						"state": {
-							"type": "outline",
-							"state": {
-								"file": "2024計算機概論/List.md",
-								"followCursor": false,
-								"showSearch": false,
-								"searchQuery": ""
-							},
-							"icon": "lucide-list",
-							"title": "生成式人工智慧Lab04 的大綱"
-						}
-					}
-				],
-				"currentTab": 3
-			}
-		],
-		"direction": "horizontal",
-		"width": 298.5,
-		"collapsed": true
-	},
-	"left-ribbon": {
-		"hiddenItems": {
-			"switcher:開啟快速切換": false,
-			"graph:查看關聯圖": false,
-			"canvas:建立新畫布": false,
-			"daily-notes:開啟今天的每日筆記": false,
-			"templates:插入模板": false,
-			"command-palette:開啟命令面板": false
-		}
-	},
-	"active": "b6070e13e47b04c5",
-	"lastOpenFiles": [
-		"生成式AI/Lab04/生成式人工智慧Lab04.pdf",
-		"生成式AI/Lab02/生成式人工智慧Lab02.md",
-		"生成式AI/Lab04/生成式人工智慧Lab04.md",
-		"生成式AI/Lab04/attachments/image.png",
-		"生成式AI/Lab04/attachments",
-		"生成式AI/Lab03/生成式人工智慧Lab03.md",
-		"生成式AI/Lab03/生成式人工智慧Lab03.pdf",
-		"生成式AI/Lab03/attachments/image-2.png",
-		"生成式AI/Lab03/attachments/image-1.png",
-		"生成式AI/Lab03/attachments/image.png",
-		"生成式AI/Lab03/attachments",
-		"生成式AI/生成式人工智慧第11組.pdf",
-		"生成式AI/Pixel art character generation as an image-to-imagetranslation problem using GANs.pdf",
-		"GAN/期末paper-Pixel art character generation as an image-to-image translation problem using GANs.md",
-		"生成式AI/Lab03",
-		"GAN/attachments/image-2.png",
-		"GAN/attachments/image-1.png",
-		"GAN/attachments/image.png",
-		"GAN/attachments",
-		"全面掌握Gemini 開發實務/README.md",
-		"全面掌握Gemini 開發實務/Gemini_API_基礎開發.md",
-		"全面掌握Gemini 開發實務/test.ipynb",
-		"全面掌握Gemini 開發實務/test.py",
-		"【語音處理&python】.md",
-		"全面掌握Gemini 開發實務",
-		"資料視覺化/程式實例/ch14/springfield.jpg",
-		"資料視覺化/程式實例/ch14/snow.jpg",
-		"資料視覺化/程式實例/ch6/macau.jpg",
-		"資料視覺化/ndarray.md",
-		"資料視覺化/README.md",
-		"生成式AI/Lab01/生成式人工智慧 Lab01.md",
-		"LLM/README.md",
-		"LLM/LangChain.md",
-		"LLM/LLM.md",
-		"LLM/Prompt Engineering（提示工程）.md",
-		"LLM/RAG（Retrieval-Augmented Generation）.md",
-		"LLM/Project：RAG PDF/README.md",
-		"LLM/Generative AI（生成式人工智慧）.md",
-		"LLM/ollama.md",
-		"LLM/機器學習&深度學習簡介.md",
-		"week03/README.md",
-		"week02/南工基礎Python教學--week02.md",
-		"week01/南工基礎Python教學--week01--解答版.md",
-		"week01/南工基礎Python教學--week01--教學版.md",
-		"week01/基本.md"
-	]
+  "main": {
+    "id": "13e0481b955a24ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "90da41f31be55452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f26fb9dc4c55ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024計算機概論/多執行續.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多執行續"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "838ba4b90c4ef34b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc9111f50cc7137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d2374114e34d8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "1f19379a115a8167",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "775fb5577665710c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "8d7f124c8bc7eb67",
+    "type": "split",
+    "children": [
+      {
+        "id": "2275bd9eae94694b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "635ffa88bb968656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "e630b32c676ffd8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "ac70b7fc10e480b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "853cefececf4cc93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024計算機概論/List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "生成式人工智慧Lab04 的大綱"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "1f26fb9dc4c55ea8",
+  "lastOpenFiles": [
+    "2024計算機概論/異常處理.md",
+    "2024計算機概論/多執行續.md",
+    "2024計算機概論/Module-Package.md",
+    "2024計算機概論/pypi-pip.md",
+    "2024計算機概論/__pycache__/make_band.cpython-310.pyc",
+    "2024計算機概論/__pycache__/make_food.cpython-310.pyc",
+    "2024計算機概論/Json.md",
+    "2024計算機概論/Tuple.md",
+    "2024計算機概論/虛擬環境.md",
+    "生成式AI/Lab04/生成式人工智慧Lab04.md",
+    "生成式AI/Lab04/attachments/image.png",
+    "2024計算機概論/List.md",
+    "生成式AI/Lab04/生成式人工智慧Lab04.pdf",
+    "生成式AI/Lab02/生成式人工智慧Lab02.md",
+    "生成式AI/Lab04/attachments",
+    "生成式AI/Lab03/生成式人工智慧Lab03.md",
+    "生成式AI/Lab03/生成式人工智慧Lab03.pdf",
+    "生成式AI/Lab03/attachments/image-2.png",
+    "生成式AI/Lab03/attachments/image-1.png",
+    "生成式AI/Lab03/attachments/image.png",
+    "生成式AI/Lab03/attachments",
+    "生成式AI/生成式人工智慧第11組.pdf",
+    "生成式AI/Pixel art character generation as an image-to-imagetranslation problem using GANs.pdf",
+    "GAN/期末paper-Pixel art character generation as an image-to-image translation problem using GANs.md",
+    "生成式AI/Lab03",
+    "GAN/attachments/image-2.png",
+    "GAN/attachments/image-1.png",
+    "GAN/attachments/image.png",
+    "GAN/attachments",
+    "全面掌握Gemini 開發實務/README.md",
+    "全面掌握Gemini 開發實務/Gemini_API_基礎開發.md",
+    "【語音處理&python】.md",
+    "資料視覺化/程式實例/ch14/springfield.jpg",
+    "資料視覺化/程式實例/ch14/snow.jpg",
+    "資料視覺化/程式實例/ch6/macau.jpg",
+    "資料視覺化/ndarray.md",
+    "資料視覺化/README.md",
+    "生成式AI/Lab01/生成式人工智慧 Lab01.md",
+    "LLM/README.md",
+    "LLM/LangChain.md",
+    "LLM/LLM.md",
+    "LLM/Prompt Engineering（提示工程）.md",
+    "LLM/RAG（Retrieval-Augmented Generation）.md",
+    "LLM/Project：RAG PDF/README.md",
+    "LLM/Generative AI（生成式人工智慧）.md",
+    "LLM/ollama.md"
+  ]
 }
