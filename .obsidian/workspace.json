@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024計算機概論/多執行續.md",
+                "file": "Tutor/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多執行續"
+              "title": "README"
+            }
+          },
+          {
+            "id": "a8a9eb40ac861470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutor/先備知識.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "先備知識"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024計算機概論/List.md",
+                "file": "Tutor/先備知識.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生成式人工智慧Lab04 的大綱"
+              "title": "先備知識 的大綱"
             }
           }
         ],
@@ -152,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +179,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1f26fb9dc4c55ea8",
+  "active": "a8a9eb40ac861470",
   "lastOpenFiles": [
-    "2024計算機概論/異常處理.md",
+    "Tutor/README.md",
+    "Tutor/先備知識.md",
     "2024計算機概論/多執行續.md",
+    "2024計算機概論/異常處理.md",
     "2024計算機概論/Module-Package.md",
     "2024計算機概論/pypi-pip.md",
     "2024計算機概論/__pycache__/make_band.cpython-310.pyc",
@@ -210,8 +226,6 @@
     "LLM/LLM.md",
     "LLM/Prompt Engineering（提示工程）.md",
     "LLM/RAG（Retrieval-Augmented Generation）.md",
-    "LLM/Project：RAG PDF/README.md",
-    "LLM/Generative AI（生成式人工智慧）.md",
-    "LLM/ollama.md"
+    "LLM/Project：RAG PDF/README.md"
   ]
 }
